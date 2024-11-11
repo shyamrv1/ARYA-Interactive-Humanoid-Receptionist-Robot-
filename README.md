@@ -1,4 +1,4 @@
-# Arya - Humanoid Receptionist Robot
+# Arya - Humanoid Receptionist Robot - ChatGpt integrated 
 
 Arya is a humanoid receptionist robot, designed to provide a welcoming experience, interact with visitors, and handle various reception tasks at Amity University Bengaluru. This project leverages speech recognition, text-to-speech, object detection, and OpenAI's language model to perform interactive tasks.
 
